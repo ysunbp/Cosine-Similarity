@@ -1,0 +1,2309 @@
+--------------------------------------------------------------------------------
+The result for 001115
+The length of 1996 is: 1623
+--------------------------------------------------------------------------------
+The result for 001234
+The score for 2002 to 2003 is: 0.7427551308557043
+The score for 2003 to 2004 is: 0.7007034077522033
+The score for 2004 to 2005 is: 0.5947241294524765
+The score for 2005 to 2006 is: 0.7720631755690219
+The score for 2006 to 2007 is: 0.3851716904528192
+The score for 2007 to 2008 is: 0.8649309778187076
+The score for 2008 to 2009 is: 0.23116024944475366
+The length of 1999 is: 662
+The length of 2002 is: 709
+The length of 2003 is: 682
+The length of 2004 is: 706
+The length of 2005 is: 767
+The length of 2006 is: 728
+The length of 2007 is: 773
+The length of 2008 is: 773
+The length of 2009 is: 742
+--------------------------------------------------------------------------------
+The result for 001554
+The score for 2002 to 2003 is: 0.23429529294649706
+The score for 2003 to 2004 is: 0.41768631179978055
+The score for 2004 to 2005 is: 0.16473562818126677
+The score for 2005 to 2006 is: 0.29224133803458013
+The score for 2006 to 2007 is: 0.5975033479447731
+The score for 2009 to 2010 is: 0.8600863029022243
+The score for 2010 to 2011 is: 0.9924495932776699
+The score for 2011 to 2012 is: 0.6075924870611393
+The score for 2014 to 2015 is: 0.801796709721565
+The length of 1998 is: 1216
+The length of 2002 is: 907
+The length of 2003 is: 517
+The length of 2004 is: 558
+The length of 2005 is: 744
+The length of 2006 is: 877
+The length of 2007 is: 855
+The length of 2009 is: 1035
+The length of 2010 is: 1096
+The length of 2011 is: 1086
+The length of 2012 is: 1015
+The length of 2014 is: 1113
+The length of 2015 is: 1220
+--------------------------------------------------------------------------------
+The result for 001633
+The score for 2014 to 2015 is: 0.014132850405729877
+The score for 2015 to 2016 is: 0.024170998863262717
+The length of 2014 is: 1886
+The length of 2015 is: 849
+The length of 2016 is: 851
+--------------------------------------------------------------------------------
+The result for 001951
+The score for 2007 to 2008 is: 0.16902333529520483
+The score for 2008 to 2009 is: 0.08246876735558199
+The score for 2009 to 2010 is: 0.6237895805271998
+The score for 2010 to 2011 is: 0.16116039365401197
+The score for 2011 to 2012 is: 0.5093261726623692
+The score for 2012 to 2013 is: 0.4753218251647963
+The length of 2007 is: 1044
+The length of 2008 is: 934
+The length of 2009 is: 1575
+The length of 2010 is: 1591
+The length of 2011 is: 1595
+The length of 2012 is: 1793
+The length of 2013 is: 1768
+--------------------------------------------------------------------------------
+The result for 002111
+The score for 2012 to 2013 is: 0.0
+The length of 2012 is: 353
+The length of 2013 is: 361
+--------------------------------------------------------------------------------
+The result for 002230
+The score for 2005 to 2006 is: 0.5734956555570608
+The length of 2005 is: 5145
+The length of 2006 is: 5845
+The length of 2010 is: 5049
+--------------------------------------------------------------------------------
+The result for 002240
+The length of 2015 is: 444
+--------------------------------------------------------------------------------
+The result for 002246
+The length of 2002 is: 1757
+The length of 2004 is: 2658
+--------------------------------------------------------------------------------
+The result for 002299
+The score for 2003 to 2004 is: 0.20981431923979232
+The score for 2004 to 2005 is: 0.48214400377438654
+The score for 2005 to 2006 is: 0.26028071718035933
+The score for 2006 to 2007 is: 0.22135721706887773
+The length of 2003 is: 270
+The length of 2004 is: 285
+The length of 2005 is: 382
+The length of 2006 is: 382
+The length of 2007 is: 376
+--------------------------------------------------------------------------------
+The result for 002942
+The score for 2009 to 2010 is: 0.22661369378593949
+The score for 2014 to 2015 is: 0.43399367623264096
+The length of 2009 is: 1681
+The length of 2010 is: 3382
+The length of 2014 is: 3477
+The length of 2015 is: 3936
+--------------------------------------------------------------------------------
+The result for 002990
+The score for 2004 to 2005 is: 0.009183815007022544
+The score for 2005 to 2006 is: 0.38768284227330296
+The length of 2004 is: 4713
+The length of 2005 is: 884
+The length of 2006 is: 976
+--------------------------------------------------------------------------------
+The result for 003673
+The score for 1998 to 1999 is: 0.0
+The length of 1998 is: 502
+The length of 1999 is: 1349
+--------------------------------------------------------------------------------
+The result for 003786
+The score for 2003 to 2004 is: 0.29494038270195133
+The score for 2004 to 2005 is: 0.8848502851344058
+The score for 2005 to 2006 is: 0.02720307571662979
+The length of 2001 is: 2788
+The length of 2003 is: 3419
+The length of 2004 is: 4246
+The length of 2005 is: 4241
+The length of 2006 is: 4678
+--------------------------------------------------------------------------------
+The result for 003807
+The score for 2003 to 2004 is: 0.6751761156652346
+The score for 2004 to 2005 is: 0.031346763802662006
+The score for 2005 to 2006 is: 0.22908217040221884
+The length of 2003 is: 1101
+The length of 2004 is: 1174
+The length of 2005 is: 1712
+The length of 2006 is: 3040
+--------------------------------------------------------------------------------
+The result for 003839
+The length of 2002 is: 1580
+--------------------------------------------------------------------------------
+The result for 003916
+The score for 1998 to 1999 is: 0.0
+The length of 1998 is: 3047
+The length of 1999 is: 3274
+--------------------------------------------------------------------------------
+The result for 004124
+The score for 2009 to 2010 is: 0.6270501765063312
+The score for 2010 to 2011 is: 0.16285186444397126
+The score for 2011 to 2012 is: 0.3808414132360066
+The score for 2012 to 2013 is: 0.7459912334203398
+The score for 2013 to 2014 is: 0.6943355851965272
+The score for 2014 to 2015 is: 0.7253167896253659
+The score for 2015 to 2016 is: 0.22617787334587316
+The length of 2009 is: 1253
+The length of 2010 is: 1238
+The length of 2011 is: 1108
+The length of 2012 is: 1141
+The length of 2013 is: 1101
+The length of 2014 is: 1032
+The length of 2015 is: 832
+The length of 2016 is: 1037
+--------------------------------------------------------------------------------
+The result for 004329
+The score for 1997 to 1998 is: 0.0
+The length of 1997 is: 1561
+The length of 1998 is: 1736
+--------------------------------------------------------------------------------
+The result for 004641
+The length of 1998 is: 302
+--------------------------------------------------------------------------------
+The result for 004675
+The score for 2002 to 2003 is: 0.1928026138489773
+The score for 2003 to 2004 is: 0.10498583516251861
+The score for 2004 to 2005 is: 0.7311206528446432
+The length of 2002 is: 1145
+The length of 2003 is: 1721
+The length of 2004 is: 1798
+The length of 2005 is: 1806
+--------------------------------------------------------------------------------
+The result for 005841
+The length of 1998 is: 1346
+--------------------------------------------------------------------------------
+The result for 006588
+The score for 2004 to 2005 is: 0.45475989744816037
+The score for 2005 to 2006 is: 0.12293024605236492
+The length of 1998 is: 1405
+The length of 2004 is: 432
+The length of 2005 is: 437
+The length of 2006 is: 311
+--------------------------------------------------------------------------------
+The result for 007205
+The score for 2010 to 2011 is: 0.0
+The length of 2010 is: 3458
+The length of 2011 is: 3494
+--------------------------------------------------------------------------------
+The result for 007245
+The score for 2003 to 2004 is: 0.11861714969648879
+The score for 2004 to 2005 is: 0.06313713264472792
+The length of 2003 is: 673
+The length of 2004 is: 683
+The length of 2005 is: 1192
+--------------------------------------------------------------------------------
+The result for 007420
+The score for 2004 to 2005 is: 0.3628429283921162
+The score for 2005 to 2006 is: 0.7228700542591635
+The score for 2006 to 2007 is: 0.5488207744164737
+The score for 2010 to 2011 is: 0.43514635884857045
+The score for 2011 to 2012 is: 0.5425081314874183
+The length of 2004 is: 951
+The length of 2005 is: 1039
+The length of 2006 is: 1060
+The length of 2007 is: 1151
+The length of 2010 is: 1307
+The length of 2011 is: 1002
+The length of 2012 is: 1059
+--------------------------------------------------------------------------------
+The result for 007875
+The length of 2010 is: 758
+--------------------------------------------------------------------------------
+The result for 008687
+The score for 2004 to 2005 is: 0.09660867679896196
+The score for 2005 to 2006 is: 0.12435482883415533
+The score for 2006 to 2007 is: 0.15087032109949672
+The length of 2004 is: 1349
+The length of 2005 is: 571
+The length of 2006 is: 600
+The length of 2007 is: 766
+--------------------------------------------------------------------------------
+The result for 009051
+The score for 1997 to 1998 is: 0.0
+The length of 1997 is: 2027
+The length of 1998 is: 2043
+--------------------------------------------------------------------------------
+The result for 009916
+The score for 2005 to 2006 is: 0.4996344483983511
+The score for 2006 to 2007 is: 0.16565369206960875
+The score for 2007 to 2008 is: 0.32022852430255466
+The score for 2008 to 2009 is: 0.43699106125672077
+The length of 2005 is: 1782
+The length of 2006 is: 1885
+The length of 2007 is: 1911
+The length of 2008 is: 1901
+The length of 2009 is: 1974
+--------------------------------------------------------------------------------
+The result for 010185
+The length of 1998 is: 1473
+--------------------------------------------------------------------------------
+The result for 010211
+The score for 1997 to 1998 is: 0.0
+The length of 1997 is: 1713
+The length of 1998 is: 906
+--------------------------------------------------------------------------------
+The result for 010407
+The score for 2011 to 2012 is: 0.0
+The length of 2011 is: 2256
+The length of 2012 is: 2644
+--------------------------------------------------------------------------------
+The result for 010476
+The score for 2014 to 2015 is: 0.19331543000156176
+The length of 2012 is: 491
+The length of 2014 is: 468
+The length of 2015 is: 480
+--------------------------------------------------------------------------------
+The result for 010550
+The score for 2010 to 2011 is: 0.45036065518379476
+The score for 2011 to 2012 is: 0.1834466996312623
+The score for 2012 to 2013 is: 0.41047218257204476
+The score for 2013 to 2014 is: 0.40832929691337005
+The length of 2010 is: 1008
+The length of 2011 is: 1035
+The length of 2012 is: 883
+The length of 2013 is: 947
+The length of 2014 is: 983
+--------------------------------------------------------------------------------
+The result for 010734
+The score for 2009 to 2010 is: 0.23863165517913476
+The score for 2010 to 2011 is: 0.2742421544632809
+The score for 2011 to 2012 is: 0.47684061322196536
+The length of 2009 is: 2278
+The length of 2010 is: 1960
+The length of 2011 is: 1561
+The length of 2012 is: 1036
+The length of 2015 is: 1137
+--------------------------------------------------------------------------------
+The result for 011051
+The score for 2003 to 2004 is: 0.9921304207149199
+The score for 2004 to 2005 is: 0.050949190689551296
+The score for 2005 to 2006 is: 0.5331562940893899
+The score for 2006 to 2007 is: 0.48873307118318055
+The score for 2010 to 2011 is: 0.37661649315104884
+The score for 2011 to 2012 is: 0.9023447907138789
+The score for 2014 to 2015 is: 0.6095363855399877
+The length of 2003 is: 2489
+The length of 2004 is: 2463
+The length of 2005 is: 2362
+The length of 2006 is: 2531
+The length of 2007 is: 2540
+The length of 2010 is: 2645
+The length of 2011 is: 3341
+The length of 2012 is: 3378
+The length of 2014 is: 3430
+The length of 2015 is: 3661
+--------------------------------------------------------------------------------
+The result for 011115
+The score for 1999 to 2000 is: 0.17476519061245482
+The score for 2003 to 2004 is: 0.16252787719495107
+The score for 2004 to 2005 is: 0.445163717346697
+The score for 2005 to 2006 is: 0.3704254136998073
+The score for 2006 to 2007 is: 0.5983433406456249
+The score for 2011 to 2012 is: 0.5011068952082597
+The length of 1999 is: 632
+The length of 2000 is: 767
+The length of 2003 is: 1496
+The length of 2004 is: 1527
+The length of 2005 is: 1603
+The length of 2006 is: 2232
+The length of 2007 is: 3013
+The length of 2011 is: 2110
+The length of 2012 is: 2268
+--------------------------------------------------------------------------------
+The result for 011805
+The score for 2007 to 2008 is: 0.09754837798568182
+The score for 2008 to 2009 is: 0.248859699658253
+The score for 2009 to 2010 is: 0.15910385383385317
+The score for 2010 to 2011 is: 0.2993310808373024
+The score for 2011 to 2012 is: 0.6265286890816546
+The score for 2014 to 2015 is: 0.4324352924327137
+The length of 2007 is: 1087
+The length of 2008 is: 1693
+The length of 2009 is: 1292
+The length of 2010 is: 1265
+The length of 2011 is: 1509
+The length of 2012 is: 1511
+The length of 2014 is: 1669
+The length of 2015 is: 1541
+--------------------------------------------------------------------------------
+The result for 011935
+The score for 2001 to 2002 is: 0.023207359114040434
+The score for 2002 to 2003 is: 0.6577761816471671
+The length of 2001 is: 854
+The length of 2002 is: 1321
+The length of 2003 is: 1262
+--------------------------------------------------------------------------------
+The result for 012390
+The score for 2003 to 2004 is: 0.18972742837949558
+The score for 2004 to 2005 is: 0.17243867169237598
+The score for 2005 to 2006 is: 0.44118697633416215
+The score for 2006 to 2007 is: 0.594736662787778
+The score for 2007 to 2008 is: 0.17423488139075682
+The score for 2008 to 2009 is: 0.8182384777172336
+The length of 1999 is: 1067
+The length of 2003 is: 787
+The length of 2004 is: 796
+The length of 2005 is: 889
+The length of 2006 is: 870
+The length of 2007 is: 1279
+The length of 2008 is: 582
+The length of 2009 is: 609
+--------------------------------------------------------------------------------
+The result for 012458
+The score for 2011 to 2012 is: 0.0
+The length of 2011 is: 677
+The length of 2012 is: 982
+--------------------------------------------------------------------------------
+The result for 012570
+The length of 1999 is: 494
+--------------------------------------------------------------------------------
+The result for 012597
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 2085
+The length of 2015 is: 1951
+--------------------------------------------------------------------------------
+The result for 012874
+The score for 2011 to 2012 is: 0.30881712040887654
+The score for 2012 to 2013 is: 0.9148168747735195
+The score for 2013 to 2014 is: 0.03193393383517594
+The score for 2014 to 2015 is: 0.7834777739075501
+The length of 2011 is: 1495
+The length of 2012 is: 1646
+The length of 2013 is: 1947
+The length of 2014 is: 2693
+The length of 2015 is: 2346
+--------------------------------------------------------------------------------
+The result for 012879
+The length of 2008 is: 1730
+--------------------------------------------------------------------------------
+The result for 012915
+The score for 2003 to 2004 is: 0.17247151181905232
+The score for 2004 to 2005 is: 0.23526949879524114
+The score for 2005 to 2006 is: 0.3876192342524007
+The length of 2003 is: 3138
+The length of 2004 is: 2474
+The length of 2005 is: 2540
+The length of 2006 is: 2820
+--------------------------------------------------------------------------------
+The result for 013013
+The length of 1997 is: 1367
+The length of 2011 is: 831
+--------------------------------------------------------------------------------
+The result for 013239
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 972
+The length of 2015 is: 1210
+--------------------------------------------------------------------------------
+The result for 013332
+The score for 2000 to 2001 is: 0.9974112543481829
+The score for 2001 to 2002 is: 0.9943852958928302
+The score for 2002 to 2003 is: 0.022193519003339497
+The score for 2003 to 2004 is: 0.7993445113504185
+The score for 2004 to 2005 is: 0.6912803126225104
+The score for 2005 to 2006 is: 0.44853900259416424
+The score for 2006 to 2007 is: 0.3609207618114658
+The length of 2000 is: 1025
+The length of 2001 is: 971
+The length of 2002 is: 989
+The length of 2003 is: 739
+The length of 2004 is: 707
+The length of 2005 is: 710
+The length of 2006 is: 692
+The length of 2007 is: 621
+--------------------------------------------------------------------------------
+The result for 013619
+The score for 2002 to 2003 is: 0.6850865067595524
+The score for 2003 to 2004 is: 0.8360447141262155
+The score for 2004 to 2005 is: 0.15128857951513086
+The score for 2005 to 2006 is: 0.07512988862912504
+The score for 2010 to 2011 is: 0.5111667948958637
+The score for 2011 to 2012 is: 0.5485399059002894
+The length of 1998 is: 1357
+The length of 2002 is: 2431
+The length of 2003 is: 2435
+The length of 2004 is: 2527
+The length of 2005 is: 436
+The length of 2006 is: 1769
+The length of 2010 is: 1887
+The length of 2011 is: 839
+The length of 2012 is: 1255
+The length of 2014 is: 1361
+--------------------------------------------------------------------------------
+The result for 014385
+The score for 2003 to 2004 is: 0.6551217092770992
+The score for 2004 to 2005 is: 0.5812191693487103
+The score for 2005 to 2006 is: 0.3115909172899147
+The score for 2006 to 2007 is: 0.3940914530797835
+The length of 2001 is: 2233
+The length of 2003 is: 2247
+The length of 2004 is: 2606
+The length of 2005 is: 2849
+The length of 2006 is: 5120
+The length of 2007 is: 3608
+--------------------------------------------------------------------------------
+The result for 014395
+The score for 2002 to 2003 is: 0.8402393353199207
+The score for 2003 to 2004 is: 0.7884285931110934
+The score for 2004 to 2005 is: 0.13195780185344586
+The score for 2005 to 2006 is: 0.03068173919829078
+The length of 1997 is: 584
+The length of 2000 is: 587
+The length of 2002 is: 707
+The length of 2003 is: 707
+The length of 2004 is: 719
+The length of 2005 is: 1546
+The length of 2006 is: 699
+The length of 2010 is: 826
+--------------------------------------------------------------------------------
+The result for 014451
+The length of 2008 is: 2286
+--------------------------------------------------------------------------------
+The result for 014487
+The score for 2004 to 2005 is: 0.6386557764492163
+The score for 2005 to 2006 is: 0.031863920013890774
+The length of 2004 is: 460
+The length of 2005 is: 482
+The length of 2006 is: 400
+--------------------------------------------------------------------------------
+The result for 014512
+The score for 2000 to 2001 is: 0.19709993521082766
+The score for 2001 to 2002 is: 0.04347219494520276
+The length of 2000 is: 1424
+The length of 2001 is: 1532
+The length of 2002 is: 1468
+--------------------------------------------------------------------------------
+The result for 014581
+The length of 2000 is: 1187
+The length of 2007 is: 1166
+--------------------------------------------------------------------------------
+The result for 014582
+The length of 2010 is: 709
+--------------------------------------------------------------------------------
+The result for 014897
+The length of 2000 is: 315
+--------------------------------------------------------------------------------
+The result for 014985
+The score for 2003 to 2004 is: 0.6283254020060864
+The score for 2004 to 2005 is: 0.3848950693381173
+The score for 2008 to 2009 is: 0.05648594709596225
+The length of 2003 is: 385
+The length of 2004 is: 433
+The length of 2005 is: 451
+The length of 2008 is: 477
+The length of 2009 is: 400
+--------------------------------------------------------------------------------
+The result for 015315
+The score for 1997 to 1998 is: 0.9396274709940596
+The length of 1997 is: 2704
+The length of 1998 is: 2780
+The length of 2002 is: 2232
+--------------------------------------------------------------------------------
+The result for 015470
+The length of 2000 is: 514
+--------------------------------------------------------------------------------
+The result for 015758
+The score for 1997 to 1998 is: 0.4704680113918211
+The length of 1997 is: 1223
+The length of 1998 is: 1091
+The length of 2002 is: 2245
+--------------------------------------------------------------------------------
+The result for 016437
+The score for 2000 to 2001 is: 0.0
+The length of 2000 is: 800
+The length of 2001 is: 935
+--------------------------------------------------------------------------------
+The result for 016453
+The score for 1999 to 2000 is: 0.0
+The length of 1999 is: 672
+The length of 2000 is: 667
+--------------------------------------------------------------------------------
+The result for 016565
+The length of 2011 is: 4909
+--------------------------------------------------------------------------------
+The result for 016719
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 800
+The length of 2015 is: 1226
+--------------------------------------------------------------------------------
+The result for 016813
+The length of 2001 is: 200
+--------------------------------------------------------------------------------
+The result for 017024
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 1531
+The length of 2015 is: 1533
+--------------------------------------------------------------------------------
+The result for 017199
+The length of 2008 is: 304
+--------------------------------------------------------------------------------
+The result for 017727
+The length of 2014 is: 520
+--------------------------------------------------------------------------------
+The result for 018100
+The length of 2000 is: 503
+--------------------------------------------------------------------------------
+The result for 018666
+The score for 2014 to 2015 is: 0.6887803341682877
+The length of 2012 is: 695
+The length of 2014 is: 850
+The length of 2015 is: 792
+--------------------------------------------------------------------------------
+The result for 020043
+The length of 2014 is: 630
+--------------------------------------------------------------------------------
+The result for 020296
+The score for 1999 to 2000 is: 0.0
+The length of 1999 is: 464
+The length of 2000 is: 595
+--------------------------------------------------------------------------------
+The result for 020554
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 899
+The length of 2015 is: 901
+--------------------------------------------------------------------------------
+The result for 020898
+The length of 2014 is: 334
+--------------------------------------------------------------------------------
+The result for 020904
+The score for 2002 to 2003 is: 0.32925920706124867
+The score for 2003 to 2004 is: 0.2907237714638177
+The score for 2004 to 2005 is: 0.5991731422737656
+The score for 2005 to 2006 is: 0.16575348363688258
+The score for 2006 to 2007 is: 0.2983753844042066
+The score for 2011 to 2012 is: 0.5734930052579366
+The score for 2012 to 2013 is: 0.9137468917885486
+The length of 2002 is: 2396
+The length of 2003 is: 2088
+The length of 2004 is: 909
+The length of 2005 is: 1011
+The length of 2006 is: 2628
+The length of 2007 is: 3524
+The length of 2011 is: 3436
+The length of 2012 is: 4319
+The length of 2013 is: 3974
+--------------------------------------------------------------------------------
+The result for 020945
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 1579
+The length of 2015 is: 1583
+--------------------------------------------------------------------------------
+The result for 021000
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 868
+The length of 2015 is: 465
+--------------------------------------------------------------------------------
+The result for 021006
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 700
+The length of 2015 is: 1402
+--------------------------------------------------------------------------------
+The result for 021188
+The length of 2015 is: 1942
+--------------------------------------------------------------------------------
+The result for 021520
+The length of 2014 is: 319
+--------------------------------------------------------------------------------
+The result for 021673
+The score for 2005 to 2006 is: 0.0
+The length of 2005 is: 753
+The length of 2006 is: 640
+--------------------------------------------------------------------------------
+The result for 021777
+The score for 2004 to 2005 is: 0.1585247282692071
+The score for 2005 to 2006 is: 0.2717143033555255
+The score for 2006 to 2007 is: 0.045336849370424884
+The length of 2004 is: 2611
+The length of 2005 is: 2987
+The length of 2006 is: 2941
+The length of 2007 is: 1190
+--------------------------------------------------------------------------------
+The result for 021824
+The length of 2016 is: 759
+--------------------------------------------------------------------------------
+The result for 021916
+The length of 2015 is: 481
+--------------------------------------------------------------------------------
+The result for 022037
+The length of 2014 is: 493
+--------------------------------------------------------------------------------
+The result for 022114
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 244
+The length of 2015 is: 265
+--------------------------------------------------------------------------------
+The result for 022144
+The score for 1996 to 1997 is: 0.11484269391195365
+The score for 1997 to 1998 is: 0.503341374324067
+The length of 1996 is: 2120
+The length of 1997 is: 2429
+The length of 1998 is: 2210
+--------------------------------------------------------------------------------
+The result for 022229
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 664
+The length of 2015 is: 780
+--------------------------------------------------------------------------------
+The result for 022667
+The length of 2014 is: 1064
+--------------------------------------------------------------------------------
+The result for 022704
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 1197
+The length of 2015 is: 1246
+--------------------------------------------------------------------------------
+The result for 022733
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 669
+The length of 2015 is: 534
+--------------------------------------------------------------------------------
+The result for 022837
+The score for 1997 to 1998 is: 0.3067741380056901
+The score for 2000 to 2001 is: 0.4198703339753235
+The length of 1997 is: 2533
+The length of 1998 is: 1097
+The length of 2000 is: 766
+The length of 2001 is: 646
+--------------------------------------------------------------------------------
+The result for 022927
+The length of 2014 is: 2105
+--------------------------------------------------------------------------------
+The result for 023255
+The length of 2015 is: 786
+--------------------------------------------------------------------------------
+The result for 023291
+The score for 1997 to 1998 is: 0.9276219349322937
+The score for 1998 to 1999 is: 0.9077198246788359
+The score for 1999 to 2000 is: 0.9088306396018345
+The score for 2000 to 2001 is: 0.08249222390718887
+The score for 2005 to 2006 is: 0.87065124627365
+The score for 2011 to 2012 is: 0.59669414747231
+The length of 1997 is: 3914
+The length of 1998 is: 3108
+The length of 1999 is: 3180
+The length of 2000 is: 2623
+The length of 2001 is: 316
+The length of 2003 is: 760
+The length of 2005 is: 994
+The length of 2006 is: 983
+The length of 2011 is: 1112
+The length of 2012 is: 1638
+--------------------------------------------------------------------------------
+The result for 023940
+The length of 2013 is: 565
+--------------------------------------------------------------------------------
+The result for 023988
+The score for 2010 to 2011 is: 0.3153890558652368
+The score for 2011 to 2012 is: 0.03937490502279012
+The length of 2010 is: 1494
+The length of 2011 is: 1542
+The length of 2012 is: 1308
+--------------------------------------------------------------------------------
+The result for 024021
+The score for 2003 to 2004 is: 0.6273651267841719
+The score for 2004 to 2005 is: 0.2115713723139575
+The score for 2005 to 2006 is: 0.12547952465488574
+The score for 2006 to 2007 is: 0.08692772613261937
+The length of 2003 is: 2417
+The length of 2004 is: 2256
+The length of 2005 is: 2199
+The length of 2006 is: 1956
+The length of 2007 is: 2456
+--------------------------------------------------------------------------------
+The result for 024185
+The score for 2001 to 2002 is: 0.39142422626594925
+The score for 2002 to 2003 is: 0.06316848690657811
+The length of 2001 is: 1188
+The length of 2002 is: 1140
+The length of 2003 is: 718
+--------------------------------------------------------------------------------
+The result for 024304
+The score for 2011 to 2012 is: 0.5130310374480446
+The length of 1997 is: 2364
+The length of 2011 is: 956
+The length of 2012 is: 1038
+--------------------------------------------------------------------------------
+The result for 024402
+The score for 2003 to 2004 is: 0.2797263729331492
+The score for 2004 to 2005 is: 0.17025512977979093
+The length of 2003 is: 1311
+The length of 2004 is: 1544
+The length of 2005 is: 787
+--------------------------------------------------------------------------------
+The result for 024449
+The score for 2003 to 2004 is: 0.046348784072932095
+The score for 2004 to 2005 is: 0.3270806072476682
+The length of 2003 is: 594
+The length of 2004 is: 817
+The length of 2005 is: 690
+--------------------------------------------------------------------------------
+The result for 024662
+The score for 2002 to 2003 is: 0.277290479077255
+The score for 2003 to 2004 is: 0.2856615823127969
+The score for 2004 to 2005 is: 0.2362617701338607
+The length of 2002 is: 1949
+The length of 2003 is: 2192
+The length of 2004 is: 988
+The length of 2005 is: 1501
+--------------------------------------------------------------------------------
+The result for 024712
+The length of 2004 is: 1014
+--------------------------------------------------------------------------------
+The result for 024837
+The score for 1997 to 1998 is: 0.698330884227851
+The score for 1998 to 1999 is: 0.9840353366208747
+The score for 1999 to 2000 is: 0.2714489227638167
+The score for 2015 to 2016 is: 0.9965923433998785
+The length of 1997 is: 2156
+The length of 1998 is: 1596
+The length of 1999 is: 1534
+The length of 2000 is: 1265
+The length of 2009 is: 1163
+The length of 2015 is: 1309
+The length of 2016 is: 1245
+--------------------------------------------------------------------------------
+The result for 024842
+The score for 2008 to 2009 is: 0.6231888654393691
+The score for 2009 to 2010 is: 0.9424709918848195
+The score for 2010 to 2011 is: 0.8708203983038415
+The score for 2011 to 2012 is: 0.037616892159587356
+The score for 2012 to 2013 is: 0.8584813484337694
+The score for 2013 to 2014 is: 0.9974271557408488
+The score for 2014 to 2015 is: 0.39064728505322666
+The length of 2008 is: 692
+The length of 2009 is: 678
+The length of 2010 is: 673
+The length of 2011 is: 678
+The length of 2012 is: 273
+The length of 2013 is: 262
+The length of 2014 is: 264
+The length of 2015 is: 357
+--------------------------------------------------------------------------------
+The result for 024853
+The length of 1997 is: 835
+The length of 2002 is: 2017
+The length of 2009 is: 2441
+--------------------------------------------------------------------------------
+The result for 024888
+The score for 2004 to 2005 is: 0.5840535701328368
+The score for 2010 to 2011 is: 0.5823089862223072
+The score for 2011 to 2012 is: 0.2788988349222654
+The score for 2014 to 2015 is: 0.8657683369200614
+The length of 2004 is: 1319
+The length of 2005 is: 1348
+The length of 2010 is: 2165
+The length of 2011 is: 1996
+The length of 2012 is: 2118
+The length of 2014 is: 1856
+The length of 2015 is: 1869
+--------------------------------------------------------------------------------
+The result for 024890
+The length of 2015 is: 841
+--------------------------------------------------------------------------------
+The result for 024982
+The score for 1998 to 1999 is: 0.290761339116589
+The score for 1999 to 2000 is: 0.5754189261715889
+The score for 2000 to 2001 is: 0.6165731223078197
+The score for 2001 to 2002 is: 0.42710610161299845
+The score for 2002 to 2003 is: 0.49727970998053295
+The score for 2003 to 2004 is: 0.3588696099656329
+The length of 1998 is: 3072
+The length of 1999 is: 2353
+The length of 2000 is: 2153
+The length of 2001 is: 1926
+The length of 2002 is: 2066
+The length of 2003 is: 1703
+The length of 2004 is: 731
+--------------------------------------------------------------------------------
+The result for 025007
+The length of 2007 is: 490
+--------------------------------------------------------------------------------
+The result for 025110
+The score for 1999 to 2000 is: 0.8966391943132477
+The score for 2000 to 2001 is: 0.5757661175791895
+The score for 2001 to 2002 is: 0.6802147302005483
+The score for 2002 to 2003 is: 0.7598899225948743
+The score for 2003 to 2004 is: 0.2535352082336376
+The score for 2004 to 2005 is: 0.17957022103718415
+The score for 2005 to 2006 is: 0.2954810403034461
+The score for 2006 to 2007 is: 0.4512100298131667
+The length of 1999 is: 1537
+The length of 2000 is: 1606
+The length of 2001 is: 1463
+The length of 2002 is: 1760
+The length of 2003 is: 1721
+The length of 2004 is: 1577
+The length of 2005 is: 2009
+The length of 2006 is: 2172
+The length of 2007 is: 2033
+The length of 2010 is: 1964
+--------------------------------------------------------------------------------
+The result for 025279
+The length of 2005 is: 2202
+The length of 2007 is: 790
+--------------------------------------------------------------------------------
+The result for 025315
+The score for 2002 to 2003 is: 0.360012304686937
+The score for 2003 to 2004 is: 0.38571164633487043
+The length of 2000 is: 1601
+The length of 2002 is: 3499
+The length of 2003 is: 752
+The length of 2004 is: 952
+--------------------------------------------------------------------------------
+The result for 025355
+The score for 1997 to 1998 is: 0.8091067004629733
+The score for 2001 to 2002 is: 0.5194244227598749
+The score for 2002 to 2003 is: 0.2367797748102648
+The score for 2003 to 2004 is: 0.7353897031446006
+The score for 2004 to 2005 is: 0.29413614985062936
+The score for 2005 to 2006 is: 0.5875780291696729
+The length of 1997 is: 909
+The length of 1998 is: 1090
+The length of 2001 is: 314
+The length of 2002 is: 798
+The length of 2003 is: 719
+The length of 2004 is: 800
+The length of 2005 is: 909
+The length of 2006 is: 1135
+--------------------------------------------------------------------------------
+The result for 025390
+The length of 2000 is: 1202
+--------------------------------------------------------------------------------
+The result for 025433
+The length of 2006 is: 2369
+--------------------------------------------------------------------------------
+The result for 025579
+The score for 2004 to 2005 is: 0.174486702791955
+The score for 2005 to 2006 is: 0.0513077332389022
+The score for 2006 to 2007 is: 0.19955256947960107
+The length of 2004 is: 1686
+The length of 2005 is: 3031
+The length of 2006 is: 2628
+The length of 2007 is: 2617
+The length of 2011 is: 3591
+--------------------------------------------------------------------------------
+The result for 025711
+The length of 2011 is: 1002
+--------------------------------------------------------------------------------
+The result for 025924
+The length of 2008 is: 4349
+--------------------------------------------------------------------------------
+The result for 027823
+The score for 2006 to 2007 is: 0.5845176736427988
+The score for 2012 to 2013 is: 0.683035627366322
+The score for 2013 to 2014 is: 0.37961621088805486
+The score for 2014 to 2015 is: 0.8668684271833567
+The length of 2006 is: 2533
+The length of 2007 is: 2369
+The length of 2012 is: 2891
+The length of 2013 is: 2862
+The length of 2014 is: 3876
+The length of 2015 is: 3670
+--------------------------------------------------------------------------------
+The result for 027983
+The score for 2008 to 2009 is: 0.4849894500683061
+The score for 2009 to 2010 is: 0.17709450356138537
+The score for 2010 to 2011 is: 0.5340545175835941
+The score for 2011 to 2012 is: 0.229100279281005
+The score for 2014 to 2015 is: 0.9639310527806297
+The length of 2008 is: 1767
+The length of 2009 is: 1420
+The length of 2010 is: 1047
+The length of 2011 is: 1143
+The length of 2012 is: 788
+The length of 2014 is: 1986
+The length of 2015 is: 1972
+--------------------------------------------------------------------------------
+The result for 028691
+The score for 2001 to 2002 is: 0.5731751983948611
+The score for 2002 to 2003 is: 0.04700188414237813
+The length of 2001 is: 950
+The length of 2002 is: 865
+The length of 2003 is: 297
+--------------------------------------------------------------------------------
+The result for 028885
+The score for 2002 to 2003 is: 0.37520867243010286
+The score for 2003 to 2004 is: 0.1284773514747924
+The length of 2000 is: 1252
+The length of 2002 is: 614
+The length of 2003 is: 771
+The length of 2004 is: 980
+The length of 2007 is: 913
+--------------------------------------------------------------------------------
+The result for 029293
+The length of 2015 is: 1472
+--------------------------------------------------------------------------------
+The result for 029319
+The score for 2008 to 2009 is: 0.14288831071644661
+The length of 2008 is: 628
+The length of 2009 is: 667
+The length of 2014 is: 518
+--------------------------------------------------------------------------------
+The result for 029459
+The score for 1999 to 2000 is: 0.7630059998917379
+The score for 2000 to 2001 is: 0.892054889515518
+The score for 2001 to 2002 is: 0.05899801287416189
+The score for 2002 to 2003 is: 0.8536971608513094
+The length of 1999 is: 1551
+The length of 2000 is: 632
+The length of 2001 is: 1372
+The length of 2002 is: 2603
+The length of 2003 is: 2610
+--------------------------------------------------------------------------------
+The result for 031015
+The score for 2000 to 2001 is: 0.0069967820224777905
+The score for 2001 to 2002 is: 0.2582061765111282
+The length of 2000 is: 885
+The length of 2001 is: 983
+The length of 2002 is: 1552
+--------------------------------------------------------------------------------
+The result for 031097
+The length of 1998 is: 1982
+--------------------------------------------------------------------------------
+The result for 031887
+The score for 2004 to 2005 is: 0.8517023414575045
+The score for 2005 to 2006 is: 0.962117520619761
+The score for 2006 to 2007 is: 0.9616446888356376
+The score for 2011 to 2012 is: 0.9630723595338875
+The score for 2012 to 2013 is: 0.878855035919724
+The score for 2015 to 2016 is: 0.7886036616699162
+The length of 1999 is: 1644
+The length of 2001 is: 1194
+The length of 2004 is: 1199
+The length of 2005 is: 1554
+The length of 2006 is: 1682
+The length of 2007 is: 1732
+The length of 2011 is: 2103
+The length of 2012 is: 2175
+The length of 2013 is: 1832
+The length of 2015 is: 1945
+The length of 2016 is: 1443
+--------------------------------------------------------------------------------
+The result for 060906
+The length of 2001 is: 312
+--------------------------------------------------------------------------------
+The result for 060915
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 735
+The length of 2015 is: 735
+--------------------------------------------------------------------------------
+The result for 061181
+The length of 2011 is: 2212
+--------------------------------------------------------------------------------
+The result for 061496
+The score for 2011 to 2012 is: 0.0
+The length of 2011 is: 1014
+The length of 2012 is: 820
+--------------------------------------------------------------------------------
+The result for 061500
+The length of 1998 is: 296
+--------------------------------------------------------------------------------
+The result for 061527
+The score for 1997 to 1998 is: 0.0
+The length of 1997 is: 425
+The length of 1998 is: 529
+--------------------------------------------------------------------------------
+The result for 061673
+The score for 2006 to 2007 is: 0.0900814812769282
+The score for 2007 to 2008 is: 0.056059183472543725
+The length of 2006 is: 1013
+The length of 2007 is: 113
+The length of 2008 is: 935
+The length of 2014 is: 736
+--------------------------------------------------------------------------------
+The result for 061691
+The score for 2002 to 2003 is: 0.26451742690963553
+The score for 2003 to 2004 is: 0.34011850155833795
+The length of 2000 is: 955
+The length of 2002 is: 975
+The length of 2003 is: 1139
+The length of 2004 is: 825
+--------------------------------------------------------------------------------
+The result for 061703
+The score for 2005 to 2006 is: 0.8305202338075099
+The score for 2006 to 2007 is: 0.07033726701927721
+The length of 2005 is: 2261
+The length of 2006 is: 2811
+The length of 2007 is: 564
+The length of 2011 is: 585
+--------------------------------------------------------------------------------
+The result for 061996
+The score for 2000 to 2001 is: 0.05929788420829066
+The score for 2003 to 2004 is: 0.7938977932129276
+The score for 2004 to 2005 is: 0.19764771939647907
+The score for 2005 to 2006 is: 0.3066688512079935
+The score for 2006 to 2007 is: 0.5730570093517802
+The score for 2009 to 2010 is: 0.8491600164540494
+The score for 2010 to 2011 is: 0.14395992409673491
+The score for 2011 to 2012 is: 0.5108220992300673
+The length of 2000 is: 1344
+The length of 2001 is: 1693
+The length of 2003 is: 2009
+The length of 2004 is: 1971
+The length of 2005 is: 280
+The length of 2006 is: 917
+The length of 2007 is: 776
+The length of 2009 is: 1099
+The length of 2010 is: 824
+The length of 2011 is: 584
+The length of 2012 is: 588
+--------------------------------------------------------------------------------
+The result for 062046
+The length of 2009 is: 970
+--------------------------------------------------------------------------------
+The result for 062168
+The score for 2010 to 2011 is: 0.008577456773465613
+The score for 2011 to 2012 is: 0.5359457928650958
+The length of 2010 is: 1617
+The length of 2011 is: 1179
+The length of 2012 is: 1171
+--------------------------------------------------------------------------------
+The result for 062236
+The score for 2000 to 2001 is: 0.03371179622326387
+The score for 2004 to 2005 is: 0.9568194499968041
+The score for 2005 to 2006 is: 0.3017829538944555
+The score for 2006 to 2007 is: 0.404654771195255
+The score for 2007 to 2008 is: 0.33057514844845853
+The score for 2008 to 2009 is: 0.07669675883561633
+The score for 2009 to 2010 is: 0.12073573103236147
+The score for 2010 to 2011 is: 0.07301404162490208
+The score for 2011 to 2012 is: 0.3825985042345585
+The length of 2000 is: 426
+The length of 2001 is: 584
+The length of 2004 is: 1591
+The length of 2005 is: 1623
+The length of 2006 is: 1633
+The length of 2007 is: 1706
+The length of 2008 is: 509
+The length of 2009 is: 733
+The length of 2010 is: 569
+The length of 2011 is: 991
+The length of 2012 is: 632
+--------------------------------------------------------------------------------
+The result for 062412
+The length of 2008 is: 782
+--------------------------------------------------------------------------------
+The result for 062705
+The score for 1997 to 1998 is: 0.0
+The length of 1997 is: 614
+The length of 1998 is: 663
+--------------------------------------------------------------------------------
+The result for 062728
+The score for 1997 to 1998 is: 0.27441797042669
+The score for 2002 to 2003 is: 0.5206896367424738
+The score for 2003 to 2004 is: 0.8135116303590867
+The length of 1997 is: 1229
+The length of 1998 is: 968
+The length of 2002 is: 1017
+The length of 2003 is: 693
+The length of 2004 is: 674
+--------------------------------------------------------------------------------
+The result for 062833
+The score for 1998 to 1999 is: 0.0
+The length of 1998 is: 2693
+The length of 1999 is: 2685
+--------------------------------------------------------------------------------
+The result for 062874
+The score for 2002 to 2003 is: 0.004169297607981125
+The score for 2003 to 2004 is: 0.04742538096765597
+The score for 2004 to 2005 is: 0.5590642678627656
+The length of 2002 is: 706
+The length of 2003 is: 425
+The length of 2004 is: 514
+The length of 2005 is: 458
+--------------------------------------------------------------------------------
+The result for 062923
+The score for 2003 to 2004 is: 0.01408018891413902
+The score for 2004 to 2005 is: 0.09286592245691708
+The length of 2003 is: 1287
+The length of 2004 is: 713
+The length of 2005 is: 425
+--------------------------------------------------------------------------------
+The result for 062948
+The score for 2003 to 2004 is: 0.6904461964330767
+The score for 2004 to 2005 is: 0.6445588367660133
+The score for 2005 to 2006 is: 0.7205168996329114
+The score for 2006 to 2007 is: 0.5983025162680007
+The score for 2010 to 2011 is: 0.5164616824374805
+The length of 2001 is: 979
+The length of 2003 is: 1309
+The length of 2004 is: 1434
+The length of 2005 is: 1480
+The length of 2006 is: 1570
+The length of 2007 is: 1421
+The length of 2010 is: 1697
+The length of 2011 is: 1760
+--------------------------------------------------------------------------------
+The result for 062954
+The score for 1998 to 1999 is: 0.9841595400269912
+The score for 1999 to 2000 is: 0.3523263423634614
+The score for 2000 to 2001 is: 0.14229282614723301
+The score for 2001 to 2002 is: 0.3948224636988754
+The score for 2002 to 2003 is: 0.1457261913246883
+The score for 2003 to 2004 is: 0.7386373484599502
+The score for 2004 to 2005 is: 0.6294506406788886
+The score for 2005 to 2006 is: 0.18291818245353175
+The score for 2006 to 2007 is: 0.31854969487320267
+The length of 1998 is: 1161
+The length of 1999 is: 1125
+The length of 2000 is: 317
+The length of 2001 is: 195
+The length of 2002 is: 161
+The length of 2003 is: 632
+The length of 2004 is: 644
+The length of 2005 is: 585
+The length of 2006 is: 178
+The length of 2007 is: 360
+--------------------------------------------------------------------------------
+The result for 062960
+The score for 1997 to 1998 is: 0.0
+The length of 1997 is: 489
+The length of 1998 is: 401
+--------------------------------------------------------------------------------
+The result for 062990
+The score for 2002 to 2003 is: 0.34170328277694856
+The score for 2003 to 2004 is: 0.7212580723496202
+The score for 2004 to 2005 is: 0.2291674964409787
+The score for 2005 to 2006 is: 0.25494571162708474
+The score for 2006 to 2007 is: 0.40933250819407807
+The score for 2007 to 2008 is: 0.1258994706527622
+The length of 1998 is: 1149
+The length of 2002 is: 2839
+The length of 2003 is: 3801
+The length of 2004 is: 3485
+The length of 2005 is: 3377
+The length of 2006 is: 3490
+The length of 2007 is: 3392
+The length of 2008 is: 2646
+--------------------------------------------------------------------------------
+The result for 063004
+The score for 1997 to 1998 is: 0.01870955113054732
+The score for 1998 to 1999 is: 0.4169370154883834
+The score for 1999 to 2000 is: 0.1347984661216972
+The length of 1997 is: 1064
+The length of 1998 is: 1144
+The length of 1999 is: 1072
+The length of 2000 is: 893
+--------------------------------------------------------------------------------
+The result for 063029
+The score for 2005 to 2006 is: 0.5873852793691337
+The length of 2005 is: 2113
+The length of 2006 is: 1869
+The length of 2009 is: 246
+The length of 2015 is: 429
+--------------------------------------------------------------------------------
+The result for 063081
+The score for 1996 to 1997 is: 0.7406824972641791
+The score for 2011 to 2012 is: 0.9144197535613435
+The score for 2014 to 2015 is: 0.696692431232355
+The length of 1996 is: 3024
+The length of 1997 is: 2709
+The length of 2000 is: 2145
+The length of 2011 is: 3955
+The length of 2012 is: 4723
+The length of 2014 is: 1341
+The length of 2015 is: 488
+--------------------------------------------------------------------------------
+The result for 063083
+The score for 1999 to 2000 is: 0.23727429614165457
+The score for 2011 to 2012 is: 0.770195539655471
+The score for 2012 to 2013 is: 0.24888683736981962
+The score for 2013 to 2014 is: 0.9753931164095465
+The length of 1999 is: 1428
+The length of 2000 is: 472
+The length of 2011 is: 505
+The length of 2012 is: 536
+The length of 2013 is: 689
+The length of 2014 is: 718
+--------------------------------------------------------------------------------
+The result for 063100
+The score for 2005 to 2006 is: 0.0
+The length of 2005 is: 1154
+The length of 2006 is: 913
+--------------------------------------------------------------------------------
+The result for 063117
+The length of 1997 is: 925
+--------------------------------------------------------------------------------
+The result for 063122
+The score for 2008 to 2009 is: 0.0628236782120956
+The score for 2009 to 2010 is: 0.05150815665359228
+The score for 2010 to 2011 is: 1.0000000000000009
+The score for 2011 to 2012 is: 0.7119574166114178
+The score for 2014 to 2015 is: 0.2742543966715021
+The length of 2008 is: 97
+The length of 2009 is: 295
+The length of 2010 is: 339
+The length of 2011 is: 339
+The length of 2012 is: 376
+The length of 2014 is: 396
+The length of 2015 is: 122
+--------------------------------------------------------------------------------
+The result for 063140
+The score for 1998 to 1999 is: 0.0
+The length of 1998 is: 764
+The length of 1999 is: 756
+--------------------------------------------------------------------------------
+The result for 063418
+The score for 2002 to 2003 is: 0.9286667263541712
+The score for 2003 to 2004 is: 0.3596601137310578
+The score for 2004 to 2005 is: 0.5776910484438333
+The score for 2005 to 2006 is: 0.84136847912646
+The score for 2010 to 2011 is: 0.9864084743081285
+The length of 2002 is: 258
+The length of 2003 is: 307
+The length of 2004 is: 327
+The length of 2005 is: 324
+The length of 2006 is: 312
+The length of 2010 is: 337
+The length of 2011 is: 342
+--------------------------------------------------------------------------------
+The result for 063617
+The score for 2001 to 2002 is: 0.788996747530177
+The score for 2002 to 2003 is: 0.04103864915654212
+The score for 2003 to 2004 is: 0.7259068527708104
+The length of 2001 is: 1190
+The length of 2002 is: 1250
+The length of 2003 is: 1049
+The length of 2004 is: 888
+--------------------------------------------------------------------------------
+The result for 063676
+The score for 2003 to 2004 is: 0.11476010930856845
+The score for 2004 to 2005 is: 0.3857216498619169
+The score for 2005 to 2006 is: 0.2587530116614384
+The score for 2006 to 2007 is: 0.639481761686509
+The length of 2003 is: 587
+The length of 2004 is: 612
+The length of 2005 is: 601
+The length of 2006 is: 667
+The length of 2007 is: 689
+--------------------------------------------------------------------------------
+The result for 063700
+The score for 1997 to 1998 is: 0.45379912102792974
+The score for 1998 to 1999 is: 0.3429291841718841
+The score for 1999 to 2000 is: 0.5979410802351427
+The score for 2000 to 2001 is: 0.8264994325577498
+The score for 2001 to 2002 is: 0.7940334863133613
+The score for 2002 to 2003 is: 0.650704238988922
+The score for 2003 to 2004 is: 0.05678936053430045
+The score for 2004 to 2005 is: 0.3840026489997463
+The score for 2005 to 2006 is: 0.8793419032043626
+The score for 2009 to 2010 is: 0.8133353323479321
+The score for 2010 to 2011 is: 0.7979803898087152
+The score for 2011 to 2012 is: 0.3104182007739457
+The length of 1997 is: 805
+The length of 1998 is: 821
+The length of 1999 is: 664
+The length of 2000 is: 801
+The length of 2001 is: 778
+The length of 2002 is: 725
+The length of 2003 is: 706
+The length of 2004 is: 2745
+The length of 2005 is: 2481
+The length of 2006 is: 2585
+The length of 2009 is: 2093
+The length of 2010 is: 3589
+The length of 2011 is: 2081
+The length of 2012 is: 1153
+The length of 2014 is: 4632
+--------------------------------------------------------------------------------
+The result for 063772
+The score for 1997 to 1998 is: 0.0
+The length of 1997 is: 1275
+The length of 1998 is: 1409
+--------------------------------------------------------------------------------
+The result for 064128
+The score for 1997 to 1998 is: 0.7713268520761342
+The score for 1998 to 1999 is: 0.055994571504393374
+The length of 1997 is: 1456
+The length of 1998 is: 1721
+The length of 1999 is: 914
+--------------------------------------------------------------------------------
+The result for 064132
+The score for 2008 to 2009 is: 0.2934712745234236
+The score for 2009 to 2010 is: 0.19419194952105362
+The score for 2010 to 2011 is: 0.2828316220895837
+The length of 2008 is: 517
+The length of 2009 is: 411
+The length of 2010 is: 632
+The length of 2011 is: 987
+--------------------------------------------------------------------------------
+The result for 064497
+The score for 2002 to 2003 is: 0.2573302654539762
+The length of 1998 is: 718
+The length of 2002 is: 857
+The length of 2003 is: 1388
+--------------------------------------------------------------------------------
+The result for 064680
+The length of 2001 is: 290
+--------------------------------------------------------------------------------
+The result for 064865
+The score for 1997 to 1998 is: 0.9094540268216733
+The score for 1998 to 1999 is: 0.9469121405909054
+The score for 1999 to 2000 is: 0.8385602928034228
+The score for 2000 to 2001 is: 0.8699435841975482
+The score for 2001 to 2002 is: 0.07244832788710281
+The score for 2002 to 2003 is: 0.9644836818622565
+The score for 2003 to 2004 is: 0.9765382522149765
+The score for 2004 to 2005 is: 0.050824793078854326
+The length of 1997 is: 1815
+The length of 1998 is: 1885
+The length of 1999 is: 2037
+The length of 2000 is: 1935
+The length of 2001 is: 2136
+The length of 2002 is: 2419
+The length of 2003 is: 2620
+The length of 2004 is: 2776
+The length of 2005 is: 3025
+The length of 2009 is: 1065
+--------------------------------------------------------------------------------
+The result for 065016
+The score for 2009 to 2010 is: 0.49384494319070005
+The score for 2010 to 2011 is: 0.7176498171787793
+The score for 2011 to 2012 is: 0.864421564599487
+The score for 2014 to 2015 is: 0.136891017710702
+The length of 2009 is: 698
+The length of 2010 is: 792
+The length of 2011 is: 799
+The length of 2012 is: 840
+The length of 2014 is: 389
+The length of 2015 is: 360
+--------------------------------------------------------------------------------
+The result for 065218
+The score for 2002 to 2003 is: 0.17677039959719942
+The score for 2003 to 2004 is: 0.6299963885905626
+The score for 2004 to 2005 is: 0.7866922719684568
+The score for 2005 to 2006 is: 0.3438681377976631
+The score for 2014 to 2015 is: 0.7368810033278609
+The length of 1998 is: 712
+The length of 2002 is: 794
+The length of 2003 is: 874
+The length of 2004 is: 981
+The length of 2005 is: 976
+The length of 2006 is: 1219
+The length of 2014 is: 2219
+The length of 2015 is: 2207
+--------------------------------------------------------------------------------
+The result for 065607
+The score for 2005 to 2006 is: 0.30555151366500766
+The score for 2006 to 2007 is: 0.4589195711444229
+The score for 2011 to 2012 is: 0.4672435216582299
+The score for 2012 to 2013 is: 0.8582404183851888
+The length of 2005 is: 2302
+The length of 2006 is: 3004
+The length of 2007 is: 1979
+The length of 2011 is: 2167
+The length of 2012 is: 2232
+The length of 2013 is: 2244
+The length of 2016 is: 2729
+--------------------------------------------------------------------------------
+The result for 065771
+The length of 2011 is: 1170
+--------------------------------------------------------------------------------
+The result for 065788
+The score for 1997 to 1998 is: 0.00821928045598319
+The score for 1998 to 1999 is: 0.039083009034422495
+The score for 1999 to 2000 is: 0.3839750907638479
+The length of 1997 is: 856
+The length of 1998 is: 724
+The length of 1999 is: 351
+The length of 2000 is: 408
+--------------------------------------------------------------------------------
+The result for 065812
+The length of 2010 is: 316
+--------------------------------------------------------------------------------
+The result for 066060
+The score for 2010 to 2011 is: 0.004187902599623659
+The score for 2011 to 2012 is: 0.9350800201759362
+The length of 2010 is: 1244
+The length of 2011 is: 2337
+The length of 2012 is: 2434
+--------------------------------------------------------------------------------
+The result for 066242
+The length of 2002 is: 1259
+--------------------------------------------------------------------------------
+The result for 066459
+The score for 1998 to 1999 is: 0.6169623743820312
+The score for 1999 to 2000 is: 0.7591862380068929
+The score for 2000 to 2001 is: 0.1355355975492565
+The score for 2001 to 2002 is: 0.0039715454479273635
+The length of 1998 is: 1676
+The length of 1999 is: 1606
+The length of 2000 is: 1424
+The length of 2001 is: 1282
+The length of 2002 is: 284
+--------------------------------------------------------------------------------
+The result for 066658
+The length of 1998 is: 798
+--------------------------------------------------------------------------------
+The result for 066697
+The score for 2002 to 2003 is: 0.1775742284752938
+The score for 2003 to 2004 is: 0.14145943118188375
+The score for 2004 to 2005 is: 0.3048646444420995
+The score for 2005 to 2006 is: 0.0020348735605380214
+The score for 2006 to 2007 is: 0.828079324394153
+The score for 2007 to 2008 is: 0.9193727044862184
+The score for 2008 to 2009 is: 0.8357893142030387
+The score for 2009 to 2010 is: 0.7972357886359175
+The score for 2014 to 2015 is: 0.9283844762309131
+The length of 2002 is: 411
+The length of 2003 is: 461
+The length of 2004 is: 440
+The length of 2005 is: 1359
+The length of 2006 is: 1027
+The length of 2007 is: 2883
+The length of 2008 is: 2762
+The length of 2009 is: 4628
+The length of 2010 is: 7361
+The length of 2014 is: 8887
+The length of 2015 is: 10950
+--------------------------------------------------------------------------------
+The result for 066728
+The score for 2004 to 2005 is: 0.07756369170145315
+The score for 2005 to 2006 is: 0.2945176990316207
+The score for 2006 to 2007 is: 0.19882198834203202
+The length of 2004 is: 945
+The length of 2005 is: 769
+The length of 2006 is: 646
+The length of 2007 is: 869
+The length of 2010 is: 1026
+--------------------------------------------------------------------------------
+The result for 105700
+The score for 2005 to 2006 is: 0.032350915232884456
+The score for 2006 to 2007 is: 0.13808525903141183
+The score for 2007 to 2008 is: 0.44310838964429083
+The length of 2005 is: 1608
+The length of 2006 is: 1009
+The length of 2007 is: 1056
+The length of 2008 is: 1481
+The length of 2010 is: 803
+--------------------------------------------------------------------------------
+The result for 109925
+The score for 2003 to 2004 is: 0.8011117599092749
+The score for 2004 to 2005 is: 0.017104650944746794
+The score for 2005 to 2006 is: 0.08918271129647769
+The length of 2003 is: 1436
+The length of 2004 is: 1431
+The length of 2005 is: 1422
+The length of 2006 is: 1408
+--------------------------------------------------------------------------------
+The result for 113178
+The score for 2009 to 2010 is: 0.4356890134325676
+The score for 2010 to 2011 is: 0.20188240912051691
+The length of 2009 is: 1329
+The length of 2010 is: 1261
+The length of 2011 is: 955
+--------------------------------------------------------------------------------
+The result for 117142
+The score for 1999 to 2000 is: 0.33295107205202146
+The score for 2000 to 2001 is: 0.6827932213296458
+The score for 2003 to 2004 is: 0.4925423787925568
+The score for 2004 to 2005 is: 0.8022399509997356
+The score for 2005 to 2006 is: 0.6192080400803002
+The score for 2006 to 2007 is: 0.5615078155314036
+The length of 1999 is: 2169
+The length of 2000 is: 1776
+The length of 2001 is: 2179
+The length of 2003 is: 3714
+The length of 2004 is: 2888
+The length of 2005 is: 2897
+The length of 2006 is: 1199
+The length of 2007 is: 2292
+The length of 2010 is: 2836
+--------------------------------------------------------------------------------
+The result for 125000
+The score for 2010 to 2011 is: 0.4552207134949563
+The score for 2011 to 2012 is: 0.10014128991693877
+The length of 2010 is: 1869
+The length of 2011 is: 2077
+The length of 2012 is: 2844
+--------------------------------------------------------------------------------
+The result for 126797
+The score for 2005 to 2006 is: 0.10076001185936619
+The score for 2006 to 2007 is: 0.006399752689209951
+The score for 2007 to 2008 is: 0.7011667726970946
+The length of 2005 is: 1622
+The length of 2006 is: 438
+The length of 2007 is: 433
+The length of 2008 is: 477
+--------------------------------------------------------------------------------
+The result for 129441
+The score for 2008 to 2009 is: 0.4535327861117426
+The score for 2011 to 2012 is: 0.9867973692554202
+The length of 2008 is: 947
+The length of 2009 is: 631
+The length of 2011 is: 991
+The length of 2012 is: 995
+The length of 2016 is: 553
+--------------------------------------------------------------------------------
+The result for 133366
+The score for 2002 to 2003 is: 0.549466310782061
+The score for 2003 to 2004 is: 0.486877969526533
+The score for 2004 to 2005 is: 0.5775074156287163
+The score for 2005 to 2006 is: 0.32605468667031823
+The score for 2006 to 2007 is: 0.35586673575792327
+The score for 2007 to 2008 is: 0.6007384802131477
+The score for 2008 to 2009 is: 0.6332536043436997
+The score for 2009 to 2010 is: 0.42513669689795053
+The score for 2010 to 2011 is: 0.6769565031391396
+The score for 2011 to 2012 is: 0.6885125895546877
+The score for 2012 to 2013 is: 0.5105619351091135
+The score for 2013 to 2014 is: 0.8388081632128588
+The score for 2014 to 2015 is: 0.5297055598337588
+The length of 2002 is: 997
+The length of 2003 is: 1014
+The length of 2004 is: 779
+The length of 2005 is: 858
+The length of 2006 is: 1021
+The length of 2007 is: 937
+The length of 2008 is: 858
+The length of 2009 is: 877
+The length of 2010 is: 882
+The length of 2011 is: 854
+The length of 2012 is: 798
+The length of 2013 is: 679
+The length of 2014 is: 694
+The length of 2015 is: 615
+--------------------------------------------------------------------------------
+The result for 133729
+The length of 2000 is: 847
+--------------------------------------------------------------------------------
+The result for 135165
+The score for 2003 to 2004 is: 0.647691460536987
+The score for 2004 to 2005 is: 0.19964574282821118
+The score for 2005 to 2006 is: 0.43646282289914534
+The score for 2006 to 2007 is: 0.4960992922997749
+The length of 2003 is: 810
+The length of 2004 is: 781
+The length of 2005 is: 606
+The length of 2006 is: 694
+The length of 2007 is: 779
+--------------------------------------------------------------------------------
+The result for 136725
+The score for 2000 to 2001 is: 0.9803889851257805
+The score for 2003 to 2004 is: 0.14879640946767775
+The score for 2004 to 2005 is: 0.7696051372775324
+The score for 2005 to 2006 is: 0.5969294993617602
+The score for 2006 to 2007 is: 0.4510522553416636
+The score for 2011 to 2012 is: 0.7031198681542454
+The score for 2012 to 2013 is: 0.8357831128400779
+The score for 2013 to 2014 is: 0.8140298492456993
+The score for 2014 to 2015 is: 0.8198231423078148
+The length of 2000 is: 457
+The length of 2001 is: 456
+The length of 2003 is: 670
+The length of 2004 is: 2229
+The length of 2005 is: 1716
+The length of 2006 is: 652
+The length of 2007 is: 1170
+The length of 2011 is: 897
+The length of 2012 is: 1195
+The length of 2013 is: 1201
+The length of 2014 is: 1261
+The length of 2015 is: 1022
+--------------------------------------------------------------------------------
+The result for 138129
+The score for 2000 to 2001 is: 0.9983489072446654
+The score for 2001 to 2002 is: 0.007777593063341742
+The score for 2002 to 2003 is: 0.13281705203960512
+The score for 2003 to 2004 is: 0.055916487833201
+The score for 2004 to 2005 is: 0.7884620284738009
+The length of 2000 is: 530
+The length of 2001 is: 725
+The length of 2002 is: 488
+The length of 2003 is: 358
+The length of 2004 is: 1954
+The length of 2005 is: 3464
+--------------------------------------------------------------------------------
+The result for 138707
+The score for 2001 to 2002 is: 0.6943883572905194
+The score for 2002 to 2003 is: 0.31829186733041037
+The score for 2003 to 2004 is: 0.5028590045722598
+The score for 2004 to 2005 is: 0.2709249958887078
+The score for 2005 to 2006 is: 0.83711523000866
+The score for 2006 to 2007 is: 0.43837106810898047
+The score for 2011 to 2012 is: 0.8376963521904301
+The score for 2014 to 2015 is: 0.9666505230268378
+The length of 2001 is: 744
+The length of 2002 is: 686
+The length of 2003 is: 1305
+The length of 2004 is: 1369
+The length of 2005 is: 1551
+The length of 2006 is: 1965
+The length of 2007 is: 2185
+The length of 2011 is: 2612
+The length of 2012 is: 2467
+The length of 2014 is: 1150
+The length of 2015 is: 1175
+--------------------------------------------------------------------------------
+The result for 139922
+The score for 2000 to 2001 is: 0.1093474350798238
+The score for 2001 to 2002 is: 0.4553318941930395
+The score for 2002 to 2003 is: 0.006802876870156033
+The score for 2003 to 2004 is: 0.004192712526752212
+The score for 2004 to 2005 is: 0.9825269793778872
+The length of 2000 is: 351
+The length of 2001 is: 742
+The length of 2002 is: 353
+The length of 2003 is: 323
+The length of 2004 is: 368
+The length of 2005 is: 359
+--------------------------------------------------------------------------------
+The result for 140023
+The score for 2006 to 2007 is: 0.6784960955262573
+The score for 2011 to 2012 is: 0.13477440752672953
+The length of 2006 is: 583
+The length of 2007 is: 598
+The length of 2011 is: 489
+The length of 2012 is: 384
+The length of 2014 is: 612
+--------------------------------------------------------------------------------
+The result for 140073
+The score for 2011 to 2012 is: 0.405946011352513
+The score for 2012 to 2013 is: 0.07091671249088499
+The score for 2013 to 2014 is: 0.559522040371589
+The score for 2014 to 2015 is: 0.13230070334139613
+The length of 2011 is: 2050
+The length of 2012 is: 2152
+The length of 2013 is: 2297
+The length of 2014 is: 2427
+The length of 2015 is: 4185
+--------------------------------------------------------------------------------
+The result for 140900
+The length of 2001 is: 1154
+The length of 2003 is: 1087
+--------------------------------------------------------------------------------
+The result for 141097
+The score for 2002 to 2003 is: 0.07115419648230581
+The score for 2003 to 2004 is: 0.17266262412675704
+The length of 2002 is: 1084
+The length of 2003 is: 1014
+The length of 2004 is: 1645
+--------------------------------------------------------------------------------
+The result for 141321
+The score for 2004 to 2005 is: 0.0
+The length of 2004 is: 1170
+The length of 2005 is: 1187
+--------------------------------------------------------------------------------
+The result for 141384
+The score for 2001 to 2002 is: 0.25700771660220934
+The score for 2002 to 2003 is: 0.9431082687586408
+The score for 2003 to 2004 is: 0.9378915275823954
+The score for 2004 to 2005 is: 0.09295930039800135
+The score for 2005 to 2006 is: 0.9237892266064243
+The score for 2006 to 2007 is: 0.1445677114750809
+The score for 2007 to 2008 is: 0.5773893885946639
+The score for 2014 to 2015 is: 0.8230787234373536
+The score for 2015 to 2016 is: 0.7999637541072323
+The length of 2001 is: 793
+The length of 2002 is: 803
+The length of 2003 is: 801
+The length of 2004 is: 852
+The length of 2005 is: 709
+The length of 2006 is: 746
+The length of 2007 is: 1118
+The length of 2008 is: 1004
+The length of 2011 is: 994
+The length of 2014 is: 1450
+The length of 2015 is: 2215
+The length of 2016 is: 2316
+--------------------------------------------------------------------------------
+The result for 143421
+The score for 2010 to 2011 is: 0.07485760083850164
+The score for 2011 to 2012 is: 0.13837030016754653
+The score for 2012 to 2013 is: 0.13777235137750032
+The score for 2013 to 2014 is: 0.45449160027428037
+The length of 2010 is: 1473
+The length of 2011 is: 915
+The length of 2012 is: 1020
+The length of 2013 is: 1194
+The length of 2014 is: 1179
+--------------------------------------------------------------------------------
+The result for 143526
+The score for 2005 to 2006 is: 0.6469680561324166
+The score for 2006 to 2007 is: 0.28527705701860734
+The score for 2007 to 2008 is: 0.08739147458661323
+The score for 2008 to 2009 is: 0.24244465950399252
+The score for 2009 to 2010 is: 0.19147502097133168
+The score for 2010 to 2011 is: 0.17247163995759074
+The score for 2011 to 2012 is: 0.9344591723911848
+The score for 2014 to 2015 is: 0.3005755583860112
+The length of 2005 is: 165
+The length of 2006 is: 162
+The length of 2007 is: 150
+The length of 2008 is: 150
+The length of 2009 is: 143
+The length of 2010 is: 100
+The length of 2011 is: 328
+The length of 2012 is: 360
+The length of 2014 is: 756
+The length of 2015 is: 370
+--------------------------------------------------------------------------------
+The result for 144436
+The score for 2001 to 2002 is: 0.6542154513727427
+The score for 2002 to 2003 is: 0.1726318288466041
+The score for 2003 to 2004 is: 0.5394648464647785
+The score for 2004 to 2005 is: 0.6887842666587964
+The score for 2005 to 2006 is: 0.38496091817407196
+The score for 2006 to 2007 is: 0.715644597518345
+The score for 2010 to 2011 is: 0.9371359892446413
+The score for 2011 to 2012 is: 0.6872055467381659
+The length of 2001 is: 1530
+The length of 2002 is: 1404
+The length of 2003 is: 4200
+The length of 2004 is: 4602
+The length of 2005 is: 5887
+The length of 2006 is: 3631
+The length of 2007 is: 3556
+The length of 2010 is: 4423
+The length of 2011 is: 4498
+The length of 2012 is: 5412
+The length of 2014 is: 4020
+--------------------------------------------------------------------------------
+The result for 144559
+The score for 2011 to 2012 is: 0.06758115684734403
+The score for 2012 to 2013 is: 0.283464621003809
+The score for 2013 to 2014 is: 0.39134891798126575
+The score for 2014 to 2015 is: 0.03396343872433209
+The length of 2011 is: 3314
+The length of 2012 is: 765
+The length of 2013 is: 742
+The length of 2014 is: 725
+The length of 2015 is: 583
+--------------------------------------------------------------------------------
+The result for 145080
+The score for 2004 to 2005 is: 0.5942471742736064
+The score for 2005 to 2006 is: 0.5438028479195075
+The score for 2006 to 2007 is: 0.3143303949639678
+The score for 2009 to 2010 is: 0.14344163341923089
+The length of 2004 is: 570
+The length of 2005 is: 558
+The length of 2006 is: 523
+The length of 2007 is: 447
+The length of 2009 is: 435
+The length of 2010 is: 441
+--------------------------------------------------------------------------------
+The result for 145854
+The score for 2002 to 2003 is: 0.15797784184519706
+The score for 2003 to 2004 is: 0.2817478459065884
+The score for 2004 to 2005 is: 0.41691382816305045
+The score for 2005 to 2006 is: 0.13964665767418072
+The length of 2002 is: 2860
+The length of 2003 is: 2402
+The length of 2004 is: 2741
+The length of 2005 is: 2936
+The length of 2006 is: 2804
+--------------------------------------------------------------------------------
+The result for 146648
+The score for 2004 to 2005 is: 0.9904009341265646
+The score for 2005 to 2006 is: 0.7739796976723983
+The score for 2006 to 2007 is: 0.0075509934592828745
+The score for 2011 to 2012 is: 0.9462473869213276
+The length of 2004 is: 389
+The length of 2005 is: 387
+The length of 2006 is: 462
+The length of 2007 is: 2163
+The length of 2011 is: 1908
+The length of 2012 is: 2152
+--------------------------------------------------------------------------------
+The result for 146778
+The length of 2003 is: 533
+--------------------------------------------------------------------------------
+The result for 147644
+The score for 2002 to 2003 is: 6.791747000390931e-05
+The score for 2003 to 2004 is: 0.03560823933596505
+The score for 2004 to 2005 is: 0.4430215630572722
+The score for 2005 to 2006 is: 0.14356097049085054
+The length of 2002 is: 422
+The length of 2003 is: 693
+The length of 2004 is: 659
+The length of 2005 is: 799
+The length of 2006 is: 1861
+--------------------------------------------------------------------------------
+The result for 148149
+The score for 2002 to 2003 is: 0.0
+The length of 2002 is: 658
+The length of 2003 is: 658
+--------------------------------------------------------------------------------
+The result for 150249
+The length of 2011 is: 712
+--------------------------------------------------------------------------------
+The result for 151423
+The length of 2008 is: 1191
+The length of 2014 is: 141
+--------------------------------------------------------------------------------
+The result for 160375
+The score for 2004 to 2005 is: 0.4758185179200676
+The score for 2005 to 2006 is: 0.9861046801003175
+The score for 2006 to 2007 is: 0.18931646819011705
+The score for 2010 to 2011 is: 0.43615293546513545
+The score for 2011 to 2012 is: 0.6578564611112089
+The score for 2014 to 2015 is: 0.790542501284389
+The length of 2004 is: 3211
+The length of 2005 is: 2886
+The length of 2006 is: 2876
+The length of 2007 is: 1106
+The length of 2010 is: 612
+The length of 2011 is: 921
+The length of 2012 is: 1230
+The length of 2014 is: 1099
+The length of 2015 is: 1007
+--------------------------------------------------------------------------------
+The result for 160488
+The score for 2004 to 2005 is: 0.7086979821435311
+The score for 2005 to 2006 is: 0.3304765174560665
+The score for 2006 to 2007 is: 0.3959458163414143
+The score for 2007 to 2008 is: 0.09088472368898437
+The score for 2008 to 2009 is: 0.16760389798476727
+The score for 2009 to 2010 is: 0.6776562784204356
+The score for 2014 to 2015 is: 0.8269805633336731
+The length of 2004 is: 1441
+The length of 2005 is: 1572
+The length of 2006 is: 1963
+The length of 2007 is: 1173
+The length of 2008 is: 1109
+The length of 2009 is: 259
+The length of 2010 is: 287
+The length of 2014 is: 799
+The length of 2015 is: 917
+--------------------------------------------------------------------------------
+The result for 160600
+The score for 2004 to 2005 is: 0.021064306865126697
+The score for 2005 to 2006 is: 0.7878197342042341
+The score for 2006 to 2007 is: 0.21190580513666232
+The length of 2004 is: 1711
+The length of 2005 is: 1617
+The length of 2006 is: 1693
+The length of 2007 is: 1963
+The length of 2009 is: 1743
+--------------------------------------------------------------------------------
+The result for 160718
+The score for 2004 to 2005 is: 0.19973892620612632
+The score for 2005 to 2006 is: 0.47257204764552274
+The score for 2006 to 2007 is: 0.128381814849211
+The length of 2004 is: 991
+The length of 2005 is: 1054
+The length of 2006 is: 1028
+The length of 2007 is: 1047
+--------------------------------------------------------------------------------
+The result for 161071
+The score for 2006 to 2007 is: 0.11011190056111184
+The length of 2004 is: 867
+The length of 2006 is: 568
+The length of 2007 is: 1809
+The length of 2010 is: 405
+--------------------------------------------------------------------------------
+The result for 161073
+The score for 2004 to 2005 is: 0.004155908436275953
+The score for 2005 to 2006 is: 0.00032727671893098944
+The length of 2004 is: 492
+The length of 2005 is: 504
+The length of 2006 is: 863
+--------------------------------------------------------------------------------
+The result for 161926
+The score for 2004 to 2005 is: 0.0
+The length of 2004 is: 728
+The length of 2005 is: 1850
+--------------------------------------------------------------------------------
+The result for 162146
+The score for 2007 to 2008 is: 0.1730157204763221
+The score for 2008 to 2009 is: 0.0433640766371112
+The score for 2014 to 2015 is: 0.6997629602480321
+The length of 2007 is: 796
+The length of 2008 is: 939
+The length of 2009 is: 1185
+The length of 2011 is: 1464
+The length of 2014 is: 2019
+The length of 2015 is: 2180
+--------------------------------------------------------------------------------
+The result for 162887
+The score for 2005 to 2006 is: 0.29199485516688667
+The score for 2006 to 2007 is: 0.19992004662866086
+The score for 2010 to 2011 is: 0.8675454344161384
+The score for 2011 to 2012 is: 0.4063772072122291
+The score for 2012 to 2013 is: 0.7891995388969404
+The score for 2013 to 2014 is: 0.5854385181014358
+The score for 2014 to 2015 is: 0.7859925399477388
+The length of 2005 is: 1226
+The length of 2006 is: 1940
+The length of 2007 is: 630
+The length of 2010 is: 767
+The length of 2011 is: 788
+The length of 2012 is: 931
+The length of 2013 is: 802
+The length of 2014 is: 1193
+The length of 2015 is: 1640
+--------------------------------------------------------------------------------
+The result for 162928
+The score for 2010 to 2011 is: 0.5766530002275161
+The length of 2008 is: 788
+The length of 2010 is: 794
+The length of 2011 is: 799
+--------------------------------------------------------------------------------
+The result for 163102
+The length of 2009 is: 1599
+--------------------------------------------------------------------------------
+The result for 163672
+The score for 2005 to 2006 is: 0.0
+The length of 2005 is: 353
+The length of 2006 is: 362
+--------------------------------------------------------------------------------
+The result for 163720
+The score for 2005 to 2006 is: 0.0
+The length of 2005 is: 3296
+The length of 2006 is: 1963
+--------------------------------------------------------------------------------
+The result for 163721
+The score for 2005 to 2006 is: 0.07429331633988874
+The score for 2006 to 2007 is: 0.19569507141812
+The length of 2005 is: 1194
+The length of 2006 is: 1209
+The length of 2007 is: 1220
+--------------------------------------------------------------------------------
+The result for 163889
+The score for 2005 to 2006 is: 0.17564509582955642
+The score for 2010 to 2011 is: 0.7670879082093913
+The score for 2011 to 2012 is: 0.6529302545998283
+The score for 2014 to 2015 is: 0.23022603813634918
+The length of 2005 is: 808
+The length of 2006 is: 876
+The length of 2010 is: 1856
+The length of 2011 is: 1823
+The length of 2012 is: 1542
+The length of 2014 is: 1432
+The length of 2015 is: 815
+--------------------------------------------------------------------------------
+The result for 163965
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 3532
+The length of 2015 is: 3631
+--------------------------------------------------------------------------------
+The result for 164293
+The score for 2011 to 2012 is: 0.3345032353849473
+The length of 2011 is: 1228
+The length of 2012 is: 352
+The length of 2015 is: 1092
+--------------------------------------------------------------------------------
+The result for 164612
+The score for 2011 to 2012 is: 0.6482868917552405
+The score for 2012 to 2013 is: 0.554331010103952
+The score for 2013 to 2014 is: 0.7245829851121295
+The score for 2014 to 2015 is: 0.021229350132794703
+The length of 2011 is: 1819
+The length of 2012 is: 1745
+The length of 2013 is: 1595
+The length of 2014 is: 1559
+The length of 2015 is: 700
+--------------------------------------------------------------------------------
+The result for 164664
+The score for 2010 to 2011 is: 0.7469120954440724
+The score for 2011 to 2012 is: 0.7596205754837999
+The score for 2014 to 2015 is: 0.06957371033935952
+The length of 2007 is: 2301
+The length of 2010 is: 2077
+The length of 2011 is: 2323
+The length of 2012 is: 1865
+The length of 2014 is: 1030
+The length of 2015 is: 2127
+--------------------------------------------------------------------------------
+The result for 165179
+The score for 2011 to 2012 is: 0.8990571859355603
+The score for 2012 to 2013 is: 0.029281035697853328
+The length of 2011 is: 262
+The length of 2012 is: 268
+The length of 2013 is: 188
+The length of 2015 is: 818
+--------------------------------------------------------------------------------
+The result for 166555
+The score for 2006 to 2007 is: 0.5948924031144052
+The score for 2010 to 2011 is: 0.21662221728747674
+The score for 2011 to 2012 is: 0.26978327165294474
+The length of 2006 is: 2062
+The length of 2007 is: 2287
+The length of 2010 is: 1493
+The length of 2011 is: 1886
+The length of 2012 is: 1579
+--------------------------------------------------------------------------------
+The result for 166569
+The length of 2009 is: 959
+--------------------------------------------------------------------------------
+The result for 166622
+The score for 2006 to 2007 is: 0.0
+The length of 2006 is: 1907
+The length of 2007 is: 224
+--------------------------------------------------------------------------------
+The result for 170378
+The length of 2013 is: 357
+--------------------------------------------------------------------------------
+The result for 171002
+The score for 2014 to 2015 is: 0.5688406080828708
+The length of 2012 is: 919
+The length of 2014 is: 1398
+The length of 2015 is: 1245
+--------------------------------------------------------------------------------
+The result for 174118
+The score for 2010 to 2011 is: 0.0
+The length of 2010 is: 1847
+The length of 2011 is: 1412
+--------------------------------------------------------------------------------
+The result for 174390
+The score for 2010 to 2011 is: 0.6127947606360673
+The score for 2011 to 2012 is: 0.7651895365864793
+The score for 2014 to 2015 is: 0.37609872028354374
+The length of 2006 is: 1639
+The length of 2010 is: 1849
+The length of 2011 is: 1374
+The length of 2012 is: 1161
+The length of 2014 is: 674
+The length of 2015 is: 768
+--------------------------------------------------------------------------------
+The result for 174876
+The score for 2006 to 2007 is: 0.1947362382733112
+The score for 2011 to 2012 is: 0.7052593971555601
+The score for 2012 to 2013 is: 0.5863171478510572
+The length of 2006 is: 989
+The length of 2007 is: 1154
+The length of 2011 is: 1575
+The length of 2012 is: 1665
+The length of 2013 is: 1737
+--------------------------------------------------------------------------------
+The result for 175084
+The score for 2007 to 2008 is: 0.09882779012061677
+The score for 2008 to 2009 is: 0.02350475376183997
+The length of 2007 is: 2244
+The length of 2008 is: 2152
+The length of 2009 is: 2740
+--------------------------------------------------------------------------------
+The result for 175466
+The score for 2009 to 2010 is: 0.0
+The length of 2009 is: 888
+The length of 2010 is: 997
+--------------------------------------------------------------------------------
+The result for 175531
+The length of 2012 is: 127
+The length of 2014 is: 910
+--------------------------------------------------------------------------------
+The result for 175743
+The score for 2006 to 2007 is: 0.06613089010097917
+The score for 2007 to 2008 is: 0.0025990840586020366
+The length of 2006 is: 1680
+The length of 2007 is: 831
+The length of 2008 is: 2304
+--------------------------------------------------------------------------------
+The result for 175913
+The score for 2006 to 2007 is: 0.543457754020544
+The score for 2010 to 2011 is: 0.09252205580635471
+The score for 2011 to 2012 is: 0.6776754475665189
+The length of 2006 is: 1948
+The length of 2007 is: 2085
+The length of 2010 is: 2674
+The length of 2011 is: 4204
+The length of 2012 is: 5266
+--------------------------------------------------------------------------------
+The result for 175978
+The score for 2010 to 2011 is: 0.4130981141497305
+The score for 2011 to 2012 is: 0.5398374776431238
+The score for 2014 to 2015 is: 0.6829838226785565
+The length of 2010 is: 749
+The length of 2011 is: 1013
+The length of 2012 is: 992
+The length of 2014 is: 1170
+The length of 2015 is: 1118
+--------------------------------------------------------------------------------
+The result for 176503
+The score for 2009 to 2010 is: 0.0
+The length of 2009 is: 101
+The length of 2010 is: 243
+--------------------------------------------------------------------------------
+The result for 176670
+The score for 2007 to 2008 is: 0.3319143520308303
+The score for 2008 to 2009 is: 0.47114581096591684
+The score for 2009 to 2010 is: 0.21477784441652004
+The score for 2010 to 2011 is: 0.43244101992170725
+The score for 2011 to 2012 is: 0.9602644747515874
+The score for 2012 to 2013 is: 0.5410158566574165
+The score for 2013 to 2014 is: 0.8250626978773989
+The score for 2014 to 2015 is: 0.881618380900651
+The score for 2015 to 2016 is: 0.696669021129694
+The length of 2007 is: 1572
+The length of 2008 is: 1867
+The length of 2009 is: 2163
+The length of 2010 is: 2160
+The length of 2011 is: 3705
+The length of 2012 is: 3868
+The length of 2013 is: 2765
+The length of 2014 is: 2578
+The length of 2015 is: 2628
+The length of 2016 is: 2748
+--------------------------------------------------------------------------------
+The result for 177227
+The score for 2011 to 2012 is: 0.5871918314071167
+The score for 2014 to 2015 is: 0.004729810364878212
+The length of 2011 is: 657
+The length of 2012 is: 510
+The length of 2014 is: 457
+The length of 2015 is: 398
+--------------------------------------------------------------------------------
+The result for 177264
+The length of 2007 is: 1741
+The length of 2011 is: 956
+--------------------------------------------------------------------------------
+The result for 177881
+The score for 2011 to 2012 is: 0.4177314991031042
+The length of 2007 is: 1410
+The length of 2011 is: 1867
+The length of 2012 is: 2133
+--------------------------------------------------------------------------------
+The result for 178619
+The length of 2011 is: 657
+--------------------------------------------------------------------------------
+The result for 178722
+The score for 2007 to 2008 is: 0.0
+The length of 2007 is: 1138
+The length of 2008 is: 953
+--------------------------------------------------------------------------------
+The result for 178847
+The score for 2010 to 2011 is: 0.06155831577628262
+The score for 2011 to 2012 is: 0.10684844470548176
+The score for 2014 to 2015 is: 0.25610241271473
+The length of 2007 is: 642
+The length of 2010 is: 1646
+The length of 2011 is: 2192
+The length of 2012 is: 1496
+The length of 2014 is: 585
+The length of 2015 is: 1293
+--------------------------------------------------------------------------------
+The result for 179413
+The score for 2011 to 2012 is: 0.9425238555877071
+The score for 2015 to 2016 is: 0.7968850801155318
+The length of 2011 is: 2058
+The length of 2012 is: 2158
+The length of 2015 is: 2389
+The length of 2016 is: 2834
+--------------------------------------------------------------------------------
+The result for 180279
+The length of 2009 is: 3369
+--------------------------------------------------------------------------------
+The result for 182610
+The length of 2014 is: 852
+--------------------------------------------------------------------------------
+The result for 183257
+The length of 2011 is: 2278
+The length of 2013 is: 2289
+--------------------------------------------------------------------------------
+The result for 184312
+The score for 2012 to 2013 is: 0.0
+The length of 2012 is: 806
+The length of 2013 is: 1147
+--------------------------------------------------------------------------------
+The result for 184337
+The score for 2011 to 2012 is: 0.7076680212273054
+The score for 2014 to 2015 is: 0.06899580568530517
+The length of 2011 is: 669
+The length of 2012 is: 767
+The length of 2014 is: 1092
+The length of 2015 is: 764
+--------------------------------------------------------------------------------
+The result for 184542
+The score for 2010 to 2011 is: 0.18189290562252913
+The score for 2011 to 2012 is: 0.05710910086616315
+The length of 2010 is: 2279
+The length of 2011 is: 2165
+The length of 2012 is: 3020
+--------------------------------------------------------------------------------
+The result for 184660
+The score for 2010 to 2011 is: 0.753816263823943
+The score for 2011 to 2012 is: 0.16455271277565237
+The length of 2010 is: 371
+The length of 2011 is: 363
+The length of 2012 is: 384
+--------------------------------------------------------------------------------
+The result for 185826
+The score for 2010 to 2011 is: 0.2577758217893187
+The score for 2011 to 2012 is: 0.24448707205005393
+The score for 2014 to 2015 is: 0.3800877951211235
+The length of 2010 is: 2053
+The length of 2011 is: 3020
+The length of 2012 is: 2626
+The length of 2014 is: 253
+The length of 2015 is: 1126
+--------------------------------------------------------------------------------
+The result for 186953
+The length of 2014 is: 1760
+--------------------------------------------------------------------------------
+The result for 187110
+The length of 2015 is: 267
+--------------------------------------------------------------------------------
+The result for 187411
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 603
+The length of 2015 is: 767
+--------------------------------------------------------------------------------
+The result for 189363
+The score for 2011 to 2012 is: 0.0
+The length of 2011 is: 190
+The length of 2012 is: 1881
+--------------------------------------------------------------------------------
+The result for 190355
+The score for 2011 to 2012 is: 0.6817747675056104
+The length of 2011 is: 1699
+The length of 2012 is: 1595
+The length of 2014 is: 1378
+--------------------------------------------------------------------------------
+The result for 254399
+The score for 2012 to 2013 is: 0.49042564914451037
+The score for 2013 to 2014 is: 0.023480976188096195
+The score for 2014 to 2015 is: 0.480841505304001
+The length of 2012 is: 1847
+The length of 2013 is: 1578
+The length of 2014 is: 1084
+The length of 2015 is: 1544
+--------------------------------------------------------------------------------
+The result for 264385
+The length of 2004 is: 1486
+The length of 2011 is: 1138
+The length of 2013 is: 1148
+--------------------------------------------------------------------------------
+The result for 264387
+The score for 2003 to 2004 is: 0.8447050795413049
+The score for 2004 to 2005 is: 0.7893272484435692
+The score for 2005 to 2006 is: 0.6395628652099916
+The score for 2010 to 2011 is: 0.7055206220682966
+The score for 2011 to 2012 is: 0.7703418024595947
+The score for 2014 to 2015 is: 0.9410251074696019
+The length of 2003 is: 2163
+The length of 2004 is: 2279
+The length of 2005 is: 2302
+The length of 2006 is: 3867
+The length of 2010 is: 2699
+The length of 2011 is: 3491
+The length of 2012 is: 3354
+The length of 2014 is: 1906
+The length of 2015 is: 1939
+--------------------------------------------------------------------------------
+The result for 271794
+The score for 2011 to 2012 is: 0.10401103193464639
+The score for 2012 to 2013 is: 0.05235566157417217
+The score for 2013 to 2014 is: 0.6190322468641859
+The score for 2014 to 2015 is: 0.4153483893447047
+The length of 2011 is: 696
+The length of 2012 is: 762
+The length of 2013 is: 889
+The length of 2014 is: 914
+The length of 2015 is: 878
+--------------------------------------------------------------------------------
+The result for 271987
+The score for 2014 to 2015 is: 0.3714057094753266
+The length of 2012 is: 569
+The length of 2014 is: 554
+The length of 2015 is: 583
+--------------------------------------------------------------------------------
+The result for 306398
+The score for 2014 to 2015 is: 0.0
+The length of 2014 is: 3247
+The length of 2015 is: 214
